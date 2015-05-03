@@ -6,12 +6,12 @@ A DessertEx syntax theme adapted from vim's desert-ex color scheme
 
 #### Shell
 
-![Shell script syntax](screenshots/shell.png)
+![Shell script syntax](https://raw.githubusercontent.com/casualjim/desert-ex-syntax/master/screenshots/shell.png)
 
 ### JavaScript
 
-![JavaScript syntax](screenshots/javascript.png)
+![JavaScript syntax](https://raw.githubusercontent.com/casualjim/desert-ex-syntax/master/screenshots/javascript.png)
 
 ### Go
 
-![Golang syntax](screenshots/golang.png)
+![Golang syntax](https://raw.githubusercontent.com/casualjim/desert-ex-syntax/master/screenshots/golang.png)
