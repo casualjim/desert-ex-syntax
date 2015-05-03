@@ -4,6 +4,8 @@ A DessertEx syntax theme adapted from vim's desert-ex color scheme
 
 ### Screenshots
 
+The font used in these screenshots is consolas
+
 #### Shell
 
 ![Shell script syntax](https://raw.githubusercontent.com/casualjim/desert-ex-syntax/master/screenshots/shell.png)
