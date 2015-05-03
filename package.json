@@ -1,0 +1,11 @@
+{
+	"name": "desert-ex-syntax",
+	"theme": "syntax",
+	"version": "0.0.0",
+	"description": "A port of the vim desert-ex syntax theme",
+	"repository": "https://github.com/casualjim/desert-ex-syntax",
+	"license": "MIT",
+	"engines": {
+		"atom": ">0.50.0"
+	}
+}
